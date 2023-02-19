@@ -22,4 +22,4 @@ LinkedIn:   https://www.linkedin.com/in/faarukbulut/
 
 <div align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=faarukbulut&show_icons=true&locale=tr&layout=compact" /></div>
 <br>
-<div align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=faarukbulut&show_icons=true&locale=en" /></div>
+<div align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=faarukbulut&show_icons=true&locale=tr" /></div>
