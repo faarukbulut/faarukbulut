@@ -8,7 +8,7 @@
 ---
 
 ## Contact me
-Discord: blacklist#0132 \
+Discord: blacklist23 \
 LinkedIn:   https://www.linkedin.com/in/faarukbulut/
 
 ---
